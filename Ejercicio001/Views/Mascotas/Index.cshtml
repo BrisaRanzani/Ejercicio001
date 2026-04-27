@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Ejercicio001.Models.Mascota>
+
+@{
+    ViewData["Title"] = "Veterinaria";
+}
+
+<h1>Mascotas</h1>
+<br>
+<p>
+    <a asp-action="Create">Crear nueva mascota</a>
+</p>
+<br>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Edad)
+            </th>
+            <th>
+                Nombre del Dueño
+            </th>
+            <th>
+                Especie
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Edad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreDuenio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.especie.Nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Borrar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

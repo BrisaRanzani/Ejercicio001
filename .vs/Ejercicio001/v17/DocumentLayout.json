@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\mascotas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\mascotas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\mascotas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\mascotas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\mascotas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\mascotas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\mascotas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\mascotas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\mascotas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\mascotas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\migrations\\20260427020803_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\migrations\\20260427020803_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|c:\\users\\brich\\source\\repos\\ejercicio001\\ejercicio001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB848149-1D8E-438B-9017-1AE9835DDF5C}|Ejercicio001\\Ejercicio001.csproj|solutionrelative:ejercicio001\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Mascotas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Delete.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Mascotas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T03:37:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Mascotas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Details.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Mascotas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T03:25:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Mascotas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Edit.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Mascotas\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T03:11:03.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:48:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Mascotas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Mascotas\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:46:35.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:33:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio001\\Views\\Mascotas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Views\\Mascotas\\Create.cshtml",
+              "RelativeToolTip": "Ejercicio001\\Views\\Mascotas\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:22:24.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260427020803_Inicial1.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Migrations\\20260427020803_Inicial1.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Migrations\\20260427020803_Inicial1.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Migrations\\20260427020803_Inicial1.cs",
+              "RelativeToolTip": "Ejercicio001\\Migrations\\20260427020803_Inicial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:08:04.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ejercicio001\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:01:50.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Especie.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Models\\Especie.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Models\\Especie.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Models\\Especie.cs",
+              "RelativeToolTip": "Ejercicio001\\Models\\Especie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:01:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Models\\Mascota.cs",
+              "RelativeToolTip": "Ejercicio001\\Models\\Mascota.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:01:46.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "Ejercicio001\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwHgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:32:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio001\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:25:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio001\\Program.cs",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\Program.cs",
+              "RelativeToolTip": "Ejercicio001\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:08:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\appsettings.json",
+              "RelativeDocumentMoniker": "Ejercicio001\\appsettings.json",
+              "ToolTip": "C:\\Users\\brich\\source\\repos\\Ejercicio001\\Ejercicio001\\appsettings.json",
+              "RelativeToolTip": "Ejercicio001\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T00:02:14.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
